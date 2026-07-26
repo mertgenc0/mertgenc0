@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Mert 👋<br><br>🎓 Computer Engineering Student at Üsküdar University (English Program)<br><br>📅 Expected Graduation: July 2026<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, Data Science, and Intelligent Systems<br><br>📚 Continuously learning, building, and exploring new technologies in AI and data-driven applications<br><br>🚀 Passionate about turning data into meaningful insights and developing intelligent solutions for real-world problems
+Hi there, I'm Mert 👋<br><br> AI & Machine Learning Engineer <br><br>🤖 Interested in Artificial Intelligence, Machine Learning, Data Science, and Intelligent Systems<br><br>📚 Continuously learning, building, and exploring new technologies in AI and data-driven applications<br><br>🚀 Passionate about turning data into meaningful insights and developing intelligent solutions for real-world problems
 
 
 ## 🌐 Socials:
